@@ -1,0 +1,123 @@
+﻿body {
+    margin: 0.25em auto 0.25em auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+article, aside, figcaption, figure, footer, header, section
+{
+    
+    display: block;
+}
+footer {
+    clear: both;
+    margin: 0.25em auto 0.25em auto;
+}
+article {
+    clear: both;
+    margin-top: 4em;
+}
+#aside1{
+    float: left; 
+    width: 30% ; 
+    min-width: 200px; 
+    background-color: rgba(157, 240, 17, 0.64);
+    padding-top: 3em;
+    padding-left: 1em;
+}
+article p {
+    color: #404040;
+}
+article h3, h4, h5, h6 {
+    color: #005505;
+    padding-top: 1px;
+}
+header {
+    border: thin solid #006060;
+    background-color: #005505;
+    margin: 0;
+    padding: 0.25em 10px 5em 10px;
+    text-align: center;
+    color: #006060;
+    height: 6.8em; 
+    overflow: hidden;
+}
+footer {
+    border: thin solid #006060;
+    background-color: #01a02d;
+    margin: 0;
+    padding: 0.25em;
+    color: ghostwhite ;
+}
+footer {
+    font-size: x-small;
+}
+nav{ 
+    display:block; 
+    padding-top: 5em;
+    padding-bottom: 1em; 
+
+}
+#mission { 
+     
+    width : 50%;
+    float: left;
+
+
+}
+#facilities { 
+    width: 40%; 
+    float: left; 
+    padding-left:2em;
+        
+}
+#mplspoon { 
+    float: left;
+    padding: 3px 9px 3px 3px;
+    border: ridge; 
+    border-color: #005505;
+    border-top: none; 
+    border-right: none; 
+
+}
+#micandheadphones1 { 
+    float: right;
+    padding: 3px 3px 3em 1px;
+    
+    }
+#missionborder { 
+    border: ridge;
+    border-color: #005505;
+    border-top-right-radius: 12px; 
+    border-bottom: none; 
+    border-left: none; 
+
+}
+#Logo { 
+    padding-bottom: 3px;
+}
+#locationprompt { 
+    color: #005505;
+    text-align : center;
+}
+#section1 { 
+    float: left; 
+    width: 60%;
+}
+#img1, #img2 {
+    float: left;
+    padding: 3px 9px 3px 3px;
+    border: ridge;
+    border-color: #005505;
+    border-top: none;
+    border-right: none;
+}
+#h1a{ 
+    color: #005505;
+    text-align: center; 
+    font-size: 24px;
+}
+#img3 {
+    float: left;
+    padding: 3px 9px 3px 3px;
+    
+}

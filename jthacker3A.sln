@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "jthacker3A", "http://localhost:53851", "{08AAFE37-1A4F-4CB3-99F1-C59CFC8FCC8F}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53851"
+		Debug.AspNetCompiler.PhysicalPath = "..\jthacker3A\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53851\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53851"
+		Release.AspNetCompiler.PhysicalPath = "..\jthacker3A\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53851\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\jthacker3A\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "jtEx1j1BusinessWedsite", "http://localhost:54534", "{6766D0B9-48D8-4CEA-B969-6E9007F4AA32}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54534"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\WebDesignDreamweaver\tutorial.02\jtEx1j1BusinessWedsite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54534\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54534"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\WebDesignDreamweaver\tutorial.02\jtEx1j1BusinessWedsite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54534\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\WebDesignDreamweaver\tutorial.02\jtEx1j1BusinessWedsite\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08AAFE37-1A4F-4CB3-99F1-C59CFC8FCC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08AAFE37-1A4F-4CB3-99F1-C59CFC8FCC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6766D0B9-48D8-4CEA-B969-6E9007F4AA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6766D0B9-48D8-4CEA-B969-6E9007F4AA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
